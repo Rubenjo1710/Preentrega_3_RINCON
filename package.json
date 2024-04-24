@@ -1,0 +1,14 @@
+{
+  "name": "preentrega_3-rincon",
+  "version": "1.0.0",
+  "description": "Proyecto coder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Rincon",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
