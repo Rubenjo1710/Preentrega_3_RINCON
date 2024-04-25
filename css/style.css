@@ -36,6 +36,7 @@
 /*clases para textos*/
 .texto-negro {
   color: black;
+  margin-top: 25px;
 }
 
 .texto-blanco {
@@ -58,29 +59,34 @@
 
 h1 {
   font-size: 40px;
-  font-family: "Rubik Dirt", cursive;
-  font-weight: 250;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
   font-style: normal;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: auto;
+  margin-bottom: 20px;
 }
 
 h2 {
+  margin-top: 10px;
   font-size: 30px;
   color: mediumblue;
   text-align: center;
-  font-family: "Rubik Dirt", cursive;
+  font-family: "Montserrat", sans-serif;
   padding: 20px;
 }
 
 h3 {
   font-size: 30px;
+  font-family: "Montserrat", sans-serif;
   font-style: italic;
-  font-weight: 100;
+  font-weight: 300;
   text-decoration: dashed;
   text-align: center;
+  margin-top: 25px;
 }
 
 /*entrenamientos*/
